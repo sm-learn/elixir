@@ -6,3 +6,4 @@
 4. [Exercism](http://exercism.io/languages)
 5. [Phoenix Web Development Framework](http://www.phoenixframework.org/)
 6. [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+7. [News on Elixir](http://elixir-news.github.io/news/)
